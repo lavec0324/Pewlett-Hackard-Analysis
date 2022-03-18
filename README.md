@@ -1,7 +1,7 @@
 # Pewlett-Hackard
 Module 7
 
---> ## Overview of the Analysis
+<!-- ## Overview of the Analysis
 
 Purpose of this project was to develop an app that would allow a user to select travel destinations based on a set of temperature parameters.  This was accomplished using
 python, jupyter notebooks, weather data api, as well as several of the google mapping apis.
@@ -24,4 +24,4 @@ Different maps that were created included:
 
 ## Summary
 
-In summary using a combination of python scripting and api's we were able to demonstrate a way for users to pick travel destinations based on temperature requirements.  This required pulling latitude and longitudes and getting wether information from weather data apis then plotting them using a google api. <--
+In summary using a combination of python scripting and api's we were able to demonstrate a way for users to pick travel destinations based on temperature requirements.  This required pulling latitude and longitudes and getting wether information from weather data apis then plotting them using a google api. -->
