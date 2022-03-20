@@ -7,8 +7,12 @@ Purpose of this project was to analyze several sources of employee data from Pew
 
 ## Results
 
-Senior Engineers have the b
-Managers are not 
+From the tables below we can see:
+
+* PH has a disproportionate population of senior personnel 
+* Senior Engineers have the b
+* Managers are not
+*  
 
 #### Retirement eligible grouping by title:
 
