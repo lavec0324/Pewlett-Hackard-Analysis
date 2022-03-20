@@ -3,7 +3,7 @@ Module 7
 
 ## Overview of the Analysis
 
-Purpose of this project was to analyze several sources of employee data from Packard-Hewitt and determine as they look toward to succession planning.  We will be looking at the number of retiring employees by their title and see where potential gaps exist and where that may be filled by looking at mentorship opportunities within the company.  This will help the company determine if the voids that are left by retiring employees can be filled with external candidates or if the company should look outside the current employee base.
+Purpose of this project was to analyze several sources of employee data from Pewlett-Hackard and determine as they look toward to succession planning.  We will be looking at the number of retiring employees by their title and see where potential gaps exist and where that may be filled by looking at mentorship opportunities within the company.  This may help the company determine if the voids that are left by retiring employees can be filled by training within the company.
 
 ## Results
 
@@ -11,6 +11,10 @@ Senior Engineers have the b
 Managers are not 
 
 #### Retirement eligible grouping by title:
+
+![](https://github.com/lavec0324/Pewlett-Hackard-Analysis/blob/main/Resources/reitring_titles.PNG)
+
+#### Mentorship eligible grouping by title:
 
 ![](https://github.com/lavec0324/Pewlett-Hackard-Analysis/blob/main/Resources/reitring_titles.PNG)
 
