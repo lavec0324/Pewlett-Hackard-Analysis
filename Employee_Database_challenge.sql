@@ -60,7 +60,11 @@ ON (ee.emp_no = tt.emp_no)
 WHERE (birth_date BETWEEN '1965-01-01' AND '1965-12-31')
 AND (de.to_date = '9999-01-01');
 
-
+-- View number of potential mentors by position
+SELECT COUNT (emp_no), title
+FROM mentor_table
+GROUP BY title
+ORDER BY count DESC;
 
 
 
