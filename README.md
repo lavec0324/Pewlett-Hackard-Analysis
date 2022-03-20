@@ -9,10 +9,10 @@ Purpose of this project was to analyze several sources of employee data from Pew
 
 From the tables below we can see:
 
-* PH has a disproportionate population of senior personnel 
-* Senior Engineers have the b
-* Managers are not
-*  
+* PH has a disproportionate population of senior personnel retiring which includes engineers and staff
+* There is a very small population of managers retiring
+* Overall numbers of mentors is small relative to the retiring staff which would be an issue as even with one person have several mentorees they would still not be able to cover the retiring population
+* That disproportion gets even greater when looking at the senior engineers, where potential mentors are outnumbered by retirees by over 150 to 1
 
 #### Retirement eligible grouping by title:
 
@@ -24,8 +24,14 @@ From the tables below we can see:
 
 ## Summary
 
-Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
-How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+Specifically answering two questions asked:
+
+* How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+** Test
+* Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
+Two additional queries could include:
+
+
 
 
