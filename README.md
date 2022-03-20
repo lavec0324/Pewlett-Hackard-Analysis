@@ -1,15 +1,17 @@
 # Pewlett-Hackard
 Module 7
 
-<!-- ## Overview of the Analysis
+## Overview of the Analysis
 
-Purpose of this project was to develop an app that would allow a user to select travel destinations based on a set of temperature parameters.  This was accomplished using
-python, jupyter notebooks, weather data api, as well as several of the google mapping apis.
+Purpose of this project was to analyze several sources of employee data from Packard-Hewitt and determine as they look toward to succession planning.  We will be looking at the number of retiring employees by their title and see where potential gaps exist and where that may be filled by looking at mentorship opportunities within the company.  This will help the company determine if the voids that are left by retiring employees can be filled with external candidates or if the company should look outside the current employee base.
 
 ## Results
 
 Different maps that were created included:
 
+
+
+<!-- 
 #### Searching for locations based on temperateure requirements:
 
 ![](https://github.com/lavec0324/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.png)
