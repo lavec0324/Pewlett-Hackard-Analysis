@@ -27,9 +27,9 @@ From the tables below we can see:
 Specifically answering two questions asked:
 
 * How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-** 72,458 roles will need to be filled if all eligible retirees are to be replaced
+  * 72,458 roles will need to be filled if all eligible retirees are to be replaced
 * Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
-No, based on the current criteria, the number of mentors are far overshadowed by the number of retiring employees.
+  * No, based on the current criteria, the number of mentors are far overshadowed by the number of retiring employees.
 
 Additional queries could include:
 
