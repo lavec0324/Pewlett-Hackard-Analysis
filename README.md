@@ -12,7 +12,7 @@ Managers are not
 
 #### Retirement eligible grouping by title:
 
-![](https://github.com/lavec0324/Pewlett-Hackard-Analysis/blob/main/Resources/reitring_titles.PNG)
+![](https://github.com/lavec0324/Pewlett-Hackard-Analysis/blob/main/Resources/retiring_titles.PNG)
 
 #### Mentorship eligible grouping by title:
 
